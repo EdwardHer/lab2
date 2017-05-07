@@ -1,0 +1,1 @@
+/home/edward/ludwin/lab2/fig/build/CMakeFiles/fig.dir
